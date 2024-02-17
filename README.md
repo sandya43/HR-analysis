@@ -32,6 +32,12 @@ The goal was to analyze HR data to uncover insights related to attrition rates, 
   - Average tenure by department
   - Work-life balance by role
   - Attrition vs time since promotion
+  - Attrition rate by department - shows Software and R&D have highest turnover
+Average salary for male research scientists - provides salary benchmark
+Attrition vs monthly income - higher attrition in 50-60K bracket
+Average tenure by department - Software has longest average tenure
+Work-life balance by role - Sales execs have poorest balance
+Attrition vs years since promotion - attrition higher for recent promos
 - Generated insights from each KPI related to turnover, compensation, tenure, etc.
 
 ### Visualizations:
